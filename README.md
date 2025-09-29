@@ -21,11 +21,16 @@ Interactive UI Elements: Navigation menu toggle, Swiper slider, scroll animation
 Technologies Used:
 
 HTML5 & CSS3
-JavaScript (ES6)
+
+JavaScript 
+
 Swiper.js:
  – Slider functionality
+ 
 Remix Icon:
  – Icons
+ 
 ScrollReveal:
  – Scroll animations
+ 
 Fully responsive design
