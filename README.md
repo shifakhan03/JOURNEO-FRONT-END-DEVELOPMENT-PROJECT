@@ -16,3 +16,16 @@ Client Testimonials: Interactive Swiper slider showcasing user experiences.
 Responsive Design: Fully responsive across devices using HTML, CSS, and JavaScript.
 
 Interactive UI Elements: Navigation menu toggle, Swiper slider, scroll animations with ScrollReveal.
+
+
+Technologies Used:
+
+HTML5 & CSS3
+JavaScript (ES6)
+Swiper.js:
+ – Slider functionality
+Remix Icon:
+ – Icons
+ScrollReveal:
+ – Scroll animations
+Fully responsive design
