@@ -1,4 +1,4 @@
-# JOURNEO-WEB-DEVELOPMENT-PROJECT
+# JOURNEO-FRONT-END-DEVELOPMENT-PROJECT
  DEMO: https://shifakhan03.github.io/JOURNEO-WEB-DEVELOPMENT-PROJECT/
  
 JOURNEO is a modern frontend travel planner website that allows users to explore destinations, discover hidden gems, and view curated itineraries. While it provides interactive elements like sliders, sections for popular destinations, journeys, and client testimonials.
